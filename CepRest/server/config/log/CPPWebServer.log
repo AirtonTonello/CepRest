@@ -1,0 +1,490 @@
+Date: 13/03/2019 00:25:54:388
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Server online
+
+
+Date: 13/03/2019 00:26:03:784
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: QPSQL driver not loaded
+
+Date: 13/03/2019 00:26:03:784
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: available drivers: QSQLITE
+
+Date: 13/03/2019 00:26:03:784
+Category: default
+File: cwf/sqldatabasestorage.h
+Function: QSqlDatabase& CWF::SqlDatabaseStorage::getDatabase()
+Version: 2
+Message: "Driver not loaded Driver not loaded"
+
+Date: 13/03/2019 00:26:03:784
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
+Date: 13/03/2019 20:07:42:253
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Server online
+
+
+Date: 13/03/2019 20:07:55:767
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: QPSQL driver not loaded
+
+Date: 13/03/2019 20:07:55:768
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: available drivers: QSQLITE
+
+Date: 13/03/2019 20:07:55:768
+Category: default
+File: cwf/sqldatabasestorage.h
+Function: QSqlDatabase& CWF::SqlDatabaseStorage::getDatabase()
+Version: 2
+Message: "Driver not loaded Driver not loaded"
+
+Date: 13/03/2019 20:07:55:768
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
+Date: 13/03/2019 20:08:46:436
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Server online
+
+
+Date: 13/03/2019 20:08:56:488
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: QPSQL driver not loaded
+
+Date: 13/03/2019 20:08:56:488
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: available drivers: QSQLITE
+
+Date: 13/03/2019 20:08:56:488
+Category: default
+File: cwf/sqldatabasestorage.h
+Function: QSqlDatabase& CWF::SqlDatabaseStorage::getDatabase()
+Version: 2
+Message: "Driver not loaded Driver not loaded"
+
+Date: 13/03/2019 20:08:56:488
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
+Date: 13/03/2019 20:08:58:170
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
+Date: 13/03/2019 20:09:29:690
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
+Date: 13/03/2019 20:09:31:776
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
+Date: 13/03/2019 20:10:27:709
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Server online
+
+
+Date: 13/03/2019 20:27:55:171
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Server online
+
+
+Date: 13/03/2019 20:28:04:664
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: QPSQL driver not loaded
+
+Date: 13/03/2019 20:28:04:664
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: available drivers: QSQLITE
+
+Date: 13/03/2019 20:28:04:664
+Category: default
+File: /usr/lib/cwf/sqldatabasestorage.h
+Function: QSqlDatabase& CWF::SqlDatabaseStorage::getDatabase()
+Version: 2
+Message: "Driver not loaded Driver not loaded"
+
+Date: 13/03/2019 20:28:04:664
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
+Date: 13/03/2019 20:28:06:207
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: QPSQL driver not loaded
+
+Date: 13/03/2019 20:28:06:207
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: available drivers: QSQLITE
+
+Date: 13/03/2019 20:28:06:207
+Category: default
+File: /usr/lib/cwf/sqldatabasestorage.h
+Function: QSqlDatabase& CWF::SqlDatabaseStorage::getDatabase()
+Version: 2
+Message: "Driver not loaded Driver not loaded"
+
+Date: 13/03/2019 20:28:06:207
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
+Date: 13/03/2019 20:33:35:640
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Error:  "The bound address is already in use" 
+
+
+Date: 13/03/2019 20:33:35:640
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Server offline
+
+
+Date: 13/03/2019 20:33:47:428
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Server online
+
+
+Date: 13/03/2019 20:34:03:322
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: QPSQL driver not loaded
+
+Date: 13/03/2019 20:34:03:322
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: available drivers: QSQLITE
+
+Date: 13/03/2019 20:34:03:322
+Category: default
+File: /usr/lib/cwf/sqldatabasestorage.h
+Function: QSqlDatabase& CWF::SqlDatabaseStorage::getDatabase()
+Version: 2
+Message: "Driver not loaded Driver not loaded"
+
+Date: 13/03/2019 20:34:03:322
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
+Date: 13/03/2019 20:34:07:264
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
+Date: 13/03/2019 20:34:45:484
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: QPSQL driver not loaded
+
+Date: 13/03/2019 20:34:45:484
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: available drivers: QSQLITE
+
+Date: 13/03/2019 20:34:45:484
+Category: default
+File: /usr/lib/cwf/sqldatabasestorage.h
+Function: QSqlDatabase& CWF::SqlDatabaseStorage::getDatabase()
+Version: 2
+Message: "Driver not loaded Driver not loaded"
+
+Date: 13/03/2019 20:34:45:484
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
+Date: 13/03/2019 20:34:47:281
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
+Date: 13/03/2019 20:35:52:763
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Server online
+
+
+Date: 13/03/2019 20:36:02:999
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: QPSQL driver not loaded
+
+Date: 13/03/2019 20:36:02:999
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: available drivers: QSQLITE
+
+Date: 13/03/2019 20:36:02:999
+Category: default
+File: /usr/lib/cwf/sqldatabasestorage.h
+Function: QSqlDatabase& CWF::SqlDatabaseStorage::getDatabase()
+Version: 2
+Message: "Driver not loaded Driver not loaded"
+
+Date: 13/03/2019 20:36:03:000
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
+Date: 13/03/2019 20:42:40:636
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Server online
+
+
+Date: 13/03/2019 20:42:46:076
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: QPSQL driver not loaded
+
+Date: 13/03/2019 20:42:46:076
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: available drivers: QSQLITE
+
+Date: 13/03/2019 20:42:46:076
+Category: default
+File: /usr/lib/cwf/sqldatabasestorage.h
+Function: QSqlDatabase& CWF::SqlDatabaseStorage::getDatabase()
+Version: 2
+Message: "Driver not loaded Driver not loaded"
+
+Date: 13/03/2019 20:42:46:077
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
+Date: 13/03/2019 20:42:49:547
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
+Date: 13/03/2019 20:42:55:364
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
+Date: 13/03/2019 20:44:08:208
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Error:  "The bound address is already in use" 
+
+
+Date: 13/03/2019 20:44:08:208
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Server offline
+
+
+Date: 13/03/2019 20:44:18:775
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Server online
+
+
+Date: 13/03/2019 20:44:24:382
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: QPSQL driver not loaded
+
+Date: 13/03/2019 20:44:24:382
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: available drivers: QSQLITE
+
+Date: 13/03/2019 20:44:24:382
+Category: default
+File: /usr/lib/cwf/sqldatabasestorage.h
+Function: QSqlDatabase& CWF::SqlDatabaseStorage::getDatabase()
+Version: 2
+Message: "Driver not loaded Driver not loaded"
+
+Date: 13/03/2019 20:44:24:382
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
+Date: 13/03/2019 20:44:31:979
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
+Date: 13/03/2019 20:48:26:084
+Category: default
+File: cwf/cppwebapplication.cpp
+Function: int CWF::CppWebApplication::start()
+Version: 2
+Message: Server online
+
+
+Date: 13/03/2019 20:48:36:370
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: QPSQL driver not loaded
+
+Date: 13/03/2019 20:48:36:370
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlDatabase: available drivers: QSQLITE
+
+Date: 13/03/2019 20:48:36:370
+Category: default
+File: /usr/lib/cwf/sqldatabasestorage.h
+Function: QSqlDatabase& CWF::SqlDatabaseStorage::getDatabase()
+Version: 2
+Message: "Driver not loaded Driver not loaded"
+
+Date: 13/03/2019 20:48:36:371
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
+Date: 13/03/2019 20:48:42:164
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
+Date: 13/03/2019 20:48:43:609
+Category: default
+File: 
+Function: 
+Version: 2
+Message: QSqlQuery::prepare: database not open
+
